@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V.0.1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V._0._1.StartForm.resources
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V._0._1.Properties.Resources.resources
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V.0.1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V.0.1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\bin\Debug\KursovaWinForms_V.0.1.exe.config
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\bin\Debug\KursovaWinForms_V.0.1.exe
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\bin\Debug\KursovaWinForms_V.0.1.pdb
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V.0.1.exe
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V.0.1.pdb
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V._0._1.AddText.resources
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V._0._1.Loginer.resources
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V._0._1.Registry.resources
+C:\Users\user\source\repos\KursovaWinForms_V.0.1\obj\Debug\KursovaWinForms_V._0._1.StatisticaCostyl.resources
