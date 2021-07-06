@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FInalKursovaCsharp\bin\Debug\FInalKursovaCsharp.exe.config
+C:\Users\user\source\repos\FInalKursovaCsharp\bin\Debug\FInalKursovaCsharp.exe
+C:\Users\user\source\repos\FInalKursovaCsharp\bin\Debug\FInalKursovaCsharp.pdb
+C:\Users\user\source\repos\FInalKursovaCsharp\obj\Debug\FInalKursovaCsharp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FInalKursovaCsharp\obj\Debug\FInalKursovaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FInalKursovaCsharp\obj\Debug\FInalKursovaCsharp.exe
+C:\Users\user\source\repos\FInalKursovaCsharp\obj\Debug\FInalKursovaCsharp.pdb
